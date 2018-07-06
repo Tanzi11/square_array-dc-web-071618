@@ -2,7 +2,8 @@ def square_array(array)
   numbers = [1,2,3]
 end
 
-def square_array(square)
+def square_array(array)
   numbers = [1,2,3]
-  square = numbers.each 
-  
+  array = numbers.each 
+end
+def 
